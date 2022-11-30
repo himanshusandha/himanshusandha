@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm [Himanshu Sandha](https://himanshusandha.com)
 
-- A Full-stack MERN developer with 2+ years expereience and overall 3+ years of working experince in IT industry
+- A Full-stack MERN developer with 2+ years expereience and overall 3+ years of working experince in IT industry (as of year 2022)
 - Learning JS everyday
 - Fond of Open Source
 
