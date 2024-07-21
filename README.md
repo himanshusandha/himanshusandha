@@ -30,3 +30,5 @@
 <center>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshusandha&theme=radical" alt="himanshusandha" />
 </center>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nodejs,git,docker,github,go,graphql&perline=6)](https://skillicons.dev)
